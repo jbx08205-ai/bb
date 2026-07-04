@@ -1,0 +1,8 @@
+2026-06-22 21:01:32,671 [MainThread] Proxy config loaded
+2026-06-22 21:01:32,672 [MainThread] auto-login: found session for @blissgents
+2026-06-22 21:01:32,866 [auto-login] Creating Client(proxy=socks5h://JB01:7TBnksWxyk@65.195.109.189:50101)
+2026-06-22 21:01:32,870 [auto-login] Proxy applied to private+public+graphql sessions: socks5h://JB01:7TBnksWxyk@65.195.109.189:50101
+2026-06-22 21:01:32,871 [auto-login] Patched inject_sessionid_to_public to cover graphql session
+2026-06-22 21:01:32,873 [auto-login] auto-login: verifying session via account_info()
+2026-06-22 21:01:33,874 [auto-login] https://i.instagram.com/api/v1/accounts/current_user/?edit=true
+2026-06-22 21:01:33,881 [auto-login] Starting new HTTPS connection (1): i.instagram.com:443
